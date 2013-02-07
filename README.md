@@ -1,5 +1,3 @@
-Martin
-
 Symfony Standard Edition
 ========================
 
